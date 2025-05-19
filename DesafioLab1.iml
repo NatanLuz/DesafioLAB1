@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1etapaCriacao_de_Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2etapaAssociacao_entre_classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3etapaHerança_e_Polimorfismo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4etapa_Arrays" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
